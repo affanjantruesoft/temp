@@ -1,4 +1,5 @@
-const tokensPreset = require('@trusoft/tokens/tailwind.preset.cjs');
+const path = require('path');
+const tokensPreset = require(path.resolve(__dirname, '../../packages/tokens/tailwind.preset.cjs'));
 
 module.exports = {
   presets: [tokensPreset],

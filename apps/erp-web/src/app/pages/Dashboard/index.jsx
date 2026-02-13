@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import GridLayout from 'react-grid-layout';
-const { Responsive, WidthProvider } = GridLayout;
+import { Responsive, WidthProvider } from 'react-grid-layout';
 import SearchBar from './components/SearchBar';
 import FilterButton from './components/FilterButton';
 import Breadcrumb from './components/Breadcrumb';
