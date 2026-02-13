@@ -8,8 +8,8 @@
         "node": ">=20"
     },
     "scripts": {
-        "dev": "vite",
-        "build": "vite build",
+        "dev": "vite --config apps/erp-web/vite.config.js --root apps/erp-web",
+        "build": "vite build --config apps/erp-web/vite.config.js --root apps/erp-web",
         "preview": "vite preview",
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
