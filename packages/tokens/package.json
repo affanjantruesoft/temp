@@ -1,0 +1,16 @@
+{
+  "name": "@trusoft/tokens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TruSoft ERP design tokens and Tailwind preset (semantic color system).",
+  "main": "index.js",
+  "type": "commonjs",
+  "sideEffects": [
+    "./tokens.css"
+  ],
+  "peerDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
+
+

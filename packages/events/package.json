@@ -1,0 +1,9 @@
+{
+  "name": "@trusoft/events",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "files": ["src"],
+  "dependencies": {
+    "socket.io-client": "^4.7.0"
+  }
+}

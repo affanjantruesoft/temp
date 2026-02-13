@@ -1,0 +1,9 @@
+{
+  "name": "@trusoft/auth",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "files": ["src"],
+  "peerDependencies": {
+    "react": "^18.3.1"
+  }
+}

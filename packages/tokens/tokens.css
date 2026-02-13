@@ -1,0 +1,24 @@
+:root {
+  /* Main Theme Colors */
+  --color-primary-darkest: #035F5B;
+  --color-primary-dark: #00918D;
+  --color-primary-medium: #3FB5B0;
+  --color-primary-light: #64E2D3;
+  --color-primary-lighter: #6EFFED;
+  --color-primary-lightest: #B3E2DE;
+
+  /* Secondary Colors */
+  --color-white: #FFFFFF;
+  --color-gray-lightest: #EDEDED;
+  --color-gray-light: #AFAFAF;
+  --color-gray-dark: #333333;
+  --color-black: #000000;
+
+  /* Semantic Colors */
+  --color-status-review: #FF9800;
+  --color-status-draft: #757575;
+  --color-priority-high: #F44336;
+  --color-priority-medium: #FF9800;
+  --color-priority-low: #4CAF50;
+}
+
